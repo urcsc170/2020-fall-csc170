@@ -1,4 +1,3 @@
-# CSC 170 Course Documentation
 Introduction to Web Development
 
 - [Syllabus](syllabus.md)
