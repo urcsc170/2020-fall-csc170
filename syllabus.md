@@ -4,15 +4,15 @@ An introduction to Internet and Web technologies. Topics include Internet transp
 
 ## Course Section:<br>**CSC 170-1 - Intro to Web Development**
 
-- Meeting Pattern: **Tues/Thurs | 11:05 AM - 12:20 PM**
+- Meeting Pattern: **Tues/Thurs 11:05 AM - 12:20 PM**
 - Credits: **4.0**
 - Location: **Online Lecture (asynchronous, Panopto)**
   - MANDATORY: students must watch recorded lecture videos in Panopto within 24 hours of being published on Tuesdays and Thursdays
 
 ## Course Section:<br>CSC 170-2 - Web Page Design - Lab or<br>CSC 170-3 - Web Page Design - Lab 
 
-- Meeting Pattern (CSC 170-2):  **Mon/Wed | 11:05 AM - 12:20 PM**
-- Meeting Pattern (CSC 170-3):  **Mon/Wed | 12:30 PM - 1:45 PM**
+- Meeting Pattern (CSC 170-2):  **Mon/Wed 11:05 AM - 12:20 PM**
+- Meeting Pattern (CSC 170-3):  **Mon/Wed 12:30 PM - 1:45 PM**
 - Credits: **0.0** (required)
 - Location: **Gavett Hall Room 208** or **Live Online Meetings (synchronous, Zoom + recordings in Panopto)**
   - MANDATORY: students on-campus must attend their scheduled lab session in-person, in Gavett Hall, subject to social distance and quarantine guidelines
