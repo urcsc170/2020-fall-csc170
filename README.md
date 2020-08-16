@@ -1,10 +1,5 @@
 Introduction to Web Development
 
-- **Technical help:** the professor, TAs (and possibly other students) will answer technical questions via [Slack](https://csc170.slack.com/), in the **#help** channel
-- **Virtual office hours** via Zoom: for private discussions, schedule an appointment using [*Calendly*, an online scheduling app](https://calendly.com/rkostin)<br>
-
-<hr>
-
 - [Syllabus](syllabus.md)
 - [Schedule](schedule.md)   &lArr; here be: slides, assignments, and related links
 
@@ -14,5 +9,14 @@ Introduction to Web Development
 
 ## Thursday, August 27, 2020
 
-- Lecture 1: Introduction to the Course
+- Lecture 1: Introduction to the Course<br><br>
+
+
+<hr>
+
+- For **technical help**
+  - Use [**Slack**](https://csc170.slack.com/) (asynchronous help): the professor and TAs (and possibly other students) will answer technical questions in the **#help** channel
+  - Attend scheduled lab sessions (synchronous help): TAs will lead discussions and answer questions in real-time via **Zoom**; see the **#announcements** channel in Slack for times and connection info
+- To schedule a **private, discussion with the professor**
+  - Use [*Calendly*, an online scheduling app](https://calendly.com/rkostin) to setup virtual office hours via **Zoom**
 
