@@ -2,22 +2,24 @@
 
 An introduction to Internet and Web technologies. Topics include Internet transport protocols, HTML5 and CSS3, Web page design and Website publishing. Emphasis is placed on fundamentals, design concepts and industry standards. Additional topics include: web site construction techniques, mobile design issues, and Search Engine Optimization (SEO). Programming with JavaScript will be introduced.
 
-## Course Section:<br>**CSC 170-1 - Intro to Web Development**
+*The course will be 100% online with asynchronous parts (the lectures), and synchronous parts (the labs)*
+
+## Course Section:<br>**CSC 170-1 - Intro to Web Development - Lecture**
 
 - Meeting Pattern: **Tues/Thurs 11:05 AM - 12:20 PM EDT**
 - Credits: **4.0**
 - Location: **Online Lecture (asynchronous, Panopto)**
-  - MANDATORY: students must watch recorded lecture videos in Panopto within 24 hours of being published on Tuesdays and Thursdays
+  - As scheduled, students must watch recorded lecture videos in Panopto within 24 hours of being published on Tuesdays and Thursdays
 
 ## Course Section:<br>CSC 170-2 - Web Page Design - Lab or<br>CSC 170-3 - Web Page Design - Lab 
 
 - Meeting Pattern (CSC 170-2):  **Mon/Wed 11:05 AM - 12:20 PM EDT**
 - Meeting Pattern (CSC 170-3):  **Mon/Wed 12:30 PM - 1:45 PM EDT**
-- Credits: **0.0** (required)
-- Location: **Gavett Hall Room 208** or **Live Online Meetings (synchronous, Zoom + recordings in Panopto)**
-  - MANDATORY: students on-campus must attend their scheduled lab session in-person, in Gavett Hall, subject to social distance and quarantine guidelines
-  - OR if unable to attend the in-person lab: students must attend their scheduled lab session via Zoom in real-time
-  - OR if unable to attend in real-time, watch recordings of the Zoom session in Panopto with 24 hours of being published on Mondays and Wednesdays
+- Credits: **0.0** (required for lecture)
+
+- Location: **Live Online Meetings (synchronous, Zoom + recordings in Panopto)**
+  - As scheduled, students must attend meetings via Zoom to work on selected assignments with TAs in real-time
+  - OR if unable to attend in real-time, watch recordings of the Zoom session in Panopto within 24 hours of being published on Mondays and Wednesdays
 
 ## Course Information and Announcements
 
@@ -31,13 +33,28 @@ An introduction to Internet and Web technologies. Topics include Internet transp
 
 ## Instructor Information 
 
+![professor-kostin](media/professor-kostin.jpg)
+
+- Instructor: **Professor Kostin**<br>Instructional Faculty<br>Digital Media Studies Program; Computer Science Department<br>University of Rochester<br>206a Morey Hall (private office); 2105 Wegmans Hall (shared office)
+- **Messaging/Office Hours**
+  - e-mail: **<robert.kostin@rochester.edu>** - not recommended due to excessive incoming messages, instead...
+  - For faster reply, please use [**Slack**](https://urcsc210.slack.com/) to contact the professor; send a **DM to Professor Kostin**
+  - For real-time discussions (**office hours**), schedule an appointment using [**Calendly**, an online scheduling app](https://calendly.com/rkostin) to setup a private Zoom meeting
+
 - Instructor: **Professor Kostin**
 - **Messaging**: e-mail: **<robert.kostin@rochester.edu>** (for faster reply, please use [Slack](https://csc170.slack.com/) to contact the professor)
 
-### Office Hours
+### Teaching Assistants
 
-- **Technical help:** the professor will answer technical questions via [Slack](https://csc170.slack.com/), in the **#help** channel; students can leave questions at any time and the professor and TAs (and possibly other students) will answer as quickly as possible
-- **Virtual office hours** via Zoom: for private discussions, schedule an appointment using [*Calendly*, an online scheduling app](https://calendly.com/rkostin)
+The following TAs will be online to present assignments, provide suggestions, and answer questions via our **#help channel in Slack**, and in the scheduled **Lab** sessions via Zoom.
+
+- To learn about **assignments**, attend the scheduled Lab sessions
+- To get **technical help** in Slack, use the #help channel; the TAs will answer
+- To discuss **grades or private matters**, search for the TAs by name and send a DM
+
+| ![christabel-ntete-kirenga](media/christabel-ntete-kirenga.jpg)<br>Bella Ntete Kirenga | ![dominique-dorvil](media/dominique-dorvil.jpg)<br>Dominique Dorvil | ![emma-mantel](media/emma-mantel.jpg)<br>Emma Mantel         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![paterne-iradukunda](media/paterne-iradukunda.jpg)<br>**Kunda Iradukunda** | ![robert-petrosyan](media/robert-petrosyan.jpg)<br>**Robert Petrosyan** | ![youssef-ouenniche](media/youssef-ouenniche.jpg)<br>**Youssef Ouenniche** |
 
 ## Grading
 For each assignment, a grading rubric will be provided. Rubrics will inform students how assignments are evaluated.  In the interest of fairness, extra credit and make-up work is not offered.  
@@ -62,7 +79,8 @@ For each assignment, a grading rubric will be provided. Rubrics will inform stud
 | Activity                                                     | Weight of the final grade                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | **Lab Assignments**<br>There is lab work once or twice a week at the discretion of the instructor.  Each lab counts equally toward the total of 30%.  There will be around 15-18 lab assignments depending on current changes in the web development industry.<br>NOTE: each lab depends on the success of the previous so students need to keep-up and not skip labs. | **30%**<br>Each lab assignment will be worth about 1.6% of the overall grade |
-| **Projects**<br>There are three projects during the semester. Each project depends on the success of the previous. | **70%**<br/>Project 1: 10%<br>Project 2: 35%<br>Project 3: 25% |
+| **Projects**<br>There are three projects during the semester. Each project depends on the success of the previous. | **60%**<br/>Project 1: 10%<br>Project 2: 30%<br>Project 3: 20% |
+| **Participation**<br>Your virtual attendance is graded; you must watch lecture videos on-time, and participate in real-time lab sessions or watch recordings of the lab sessions | **10%**                                                      |
 
 ## Labs and Project Assignments
 **Assignments** are made available via the Course Documentation website after most lectures and can be completed independently on one's own Internet-connected computer (Mac or PC).  
