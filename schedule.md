@@ -6,7 +6,7 @@ This schedule is subject to modification throughout the semester. Always check w
 
 | Lecture | Date                               | Activity                                                     |
 | ------- | ---------------------------------- | ------------------------------------------------------------ |
-|         | Wednesday, August 26, 2020         | Lab 0: Course Tools (available at 11:05 AM EDT)              |
+|         | Wednesday, August 26, 2020         | [Lab 0: Course Tools](lab00-course-tools/instructions.md)    |
 | 1       | Thursday, August 27, 2020          | Lecture 1a: Introduction to CSC 170 (coming soon, in Panopto)<br>Lecture 1b: Introduction to the Industry (coming soon, in Panopto) |
 |         | Monday, August 31, 2020            | OPEN LAB                                                     |
 | 2       | Tuesday, September 1, 2020         | Introduction to the Industry                                 |

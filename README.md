@@ -5,7 +5,7 @@ Introduction to Web Development
 
 ## Wednesday, August 26, 2020
 
-- Lab 0: Course Tools (available at 11:05 AM EDT)
+- [Lab 0: Course Tools](lab00-course-tools/instructions.md)
 
 ## Thursday, August 27, 2020
 

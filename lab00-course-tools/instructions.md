@@ -49,3 +49,9 @@ Our lab assignments and projects will be built one upon the other, which lends i
 - Install the [GitHub Desktop software application](https://desktop.github.com) instead.  
 - Here is a good introduction if you need to learn basic Git concepts and commands: [An Introduction to Git and GitHub by Brian Yu (YouTube 38:26)](https://youtu.be/MJUJ4wbFm_A)
 
+## FTP Account on Our Class Web Server
+
+During a regular semester you would meet with a TA in your scheduled lab, in-person.  There you would setup your FTP (File Transfer Protocol) account that to use all semester long to upload your assignments to our class web server.  
+
+For this semester we need to do things differently.  The TAs will create accounts for you and contact you via DM in Slack over the next few days with further instructions. So keep an eye out for that!
+
