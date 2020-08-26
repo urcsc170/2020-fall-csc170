@@ -2,7 +2,7 @@
 
 Everyone in CSC 170 is assigned a TA who will be your primary point-of-contact for the semester in addition to the professor. 
 
-You can find your TA by using the Search tools in Slack.
+You can contact your TA by using the Search tools in Slack.
 
 *Remember: when looking for technical help in Slack, do not DM your TA. Use the #help channel. Contact your TA (or the professor) when you have questions about grades or other private matters.*
 
