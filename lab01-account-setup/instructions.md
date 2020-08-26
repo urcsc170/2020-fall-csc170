@@ -8,7 +8,7 @@ Your assignment is to login and use your account on our class web server and pra
 Your **FTP (File Transfer Protocol) account** is what you will use to copy your web files from your computer to the class web server throughout the semester.  To get your account, you will contact your TA via DM in Slack to get it setup.
 
 - Refer to [this list (linked here)](student-ta.md) to figure out **who is your TA**.
-- Send the following information via DM in Slack to your TA :
+- Send the following information via DM in Slack to your TA:
   - Your **UR username** (e.g. rkostin) and a new/made-up **password**
   - Do *not* share your usual/favorite password with your TA! Create a new password that isn't used anywhere else
 
