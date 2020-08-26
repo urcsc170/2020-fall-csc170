@@ -11,7 +11,7 @@ An introduction to Internet and Web technologies. Topics include Internet transp
 - Location: **Online Lecture (asynchronous, Panopto)**
   - As scheduled, students must watch recorded lecture videos in Panopto within 24 hours of being published on Tuesdays and Thursdays
 
-## Course Section:<br>CSC 170-2 - Web Page Design - Lab or<br>CSC 170-3 - Web Page Design - Lab 
+## Course Section:<br>CSC 170-2 - Web Development - Lab or<br>CSC 170-3 - Web Development - Lab 
 
 - Meeting Pattern (CSC 170-2):  **Mon/Wed 11:05 AM - 12:20 PM EDT**
 - Meeting Pattern (CSC 170-3):  **Mon/Wed 12:30 PM - 1:45 PM EDT**
@@ -79,8 +79,7 @@ For each assignment, a grading rubric will be provided. Rubrics will inform stud
 | Activity                                                     | Weight of the final grade                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | **Lab Assignments**<br>There is lab work once or twice a week at the discretion of the instructor.  Each lab counts equally toward the total of 30%.  There will be around 15-18 lab assignments depending on current changes in the web development industry.<br>NOTE: each lab depends on the success of the previous so students need to keep-up and not skip labs. | **30%**<br>Each lab assignment will be worth about 1.6% of the overall grade |
-| **Projects**<br>There are three projects during the semester. Each project depends on the success of the previous. | **60%**<br/>Project 1: 10%<br>Project 2: 30%<br>Project 3: 20% |
-| **Participation**<br>Your virtual attendance is graded; you must watch lecture videos on-time, and participate in real-time lab sessions or watch recordings of the lab sessions | **10%**                                                      |
+| **Projects**<br>There are three projects during the semester. Each project depends on the success of the previous. | **70%**<br/>Project 1: 10%<br>Project 2: 35%<br>Project 3: 25% |
 
 ## Labs and Project Assignments
 **Assignments** are made available via the Course Documentation website after most lectures and can be completed independently on one's own Internet-connected computer (Mac or PC).  
