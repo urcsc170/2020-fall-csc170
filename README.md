@@ -5,11 +5,12 @@ Introduction to Web Development
 
 ## Wednesday, August 26, 2020
 
-- Lab 0: Course Tools
+- Lab 0: Course Tools (available at 11:05 AM EDT)
 
 ## Thursday, August 27, 2020
 
-- Lecture 1: Introduction to the Course<br><br>
+- Lecture 1a: Introduction to CSC 170 (coming soon, in Panopto)
+- Lecture 1b: Introduction to the Industry (coming soon, in Panopto)
 
 
 <hr>
