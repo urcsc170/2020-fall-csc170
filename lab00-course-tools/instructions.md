@@ -6,7 +6,7 @@ Your assignment is to simply create accounts in the online tools we'll be using 
 
 Optionally, you should to introduce yourself to the other students in CSC 170 because it's beneficial to work in groups.  Although you'll be turning-in all your assignments and projects individually, when we get into  more difficult topics like webpage design it's okay to work in groups, so it's important to know who's who.
 
-Also optionally, we can help you use industry-standard tools like Git and GitHub which might help you manage your assignments in your own code repository.  It'll be more to learn and more work at first, you can abandon it later and do things "the old fashioned way" if you don't *click* with it. 
+Also optionally, we can help you use industry-standard tools like Git and GitHub which might help you manage your assignments in your own code repository.  It'll be more to learn and more work at first, but you can abandon it later and do things "the old fashioned way" if you don't *click* with it. 
 
 ## Access the CSC 170 Workspace in Slack
 
