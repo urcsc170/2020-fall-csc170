@@ -9,15 +9,9 @@ Introduction to Web Development
 
 ## Thursday, August 27, 2020
 
-- Lecture 1a: Introduction to CSC 170 (coming soon, in Panopto)
-- Lecture 1b: Introduction to the Industry (coming soon, in Panopto)
-
-
-<hr>
-
-- For **technical help**
-  - Use [**Slack**](https://csc170.slack.com/) (asynchronous help): the professor and TAs (and possibly other students) will answer technical questions in the **#help** channel
-  - Attend scheduled lab sessions (synchronous help): TAs will lead discussions and answer questions in real-time via **Zoom**; see the **#announcements** channel in Slack for times and connection info
-- To schedule a **private, discussion with the professor**
-  - Use [*Calendly*, an online scheduling app](https://calendly.com/rkostin) to setup virtual office hours via **Zoom**
+- [Lecture 1a: Introduction to CSC 170 (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e58e1be2-c486-4fa3-923c-ac210147946a)
+  - [Introduction to CSC 170 (PDF)](01-intro/intro-csc170.pdf)
+- [Lecture 1b: Introduction to the Industry (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b7440498-5192-4d2e-85d1-ac210178a5c6)
+  - [Introduction to the Industry (PDF)](01-intro/intro-industry.pdf)
+  - [What is the World Wide Web (YouTube)](https://youtu.be/J8hzJxb0rpc)
 
