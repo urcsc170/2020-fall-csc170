@@ -73,7 +73,6 @@ You can contact your TA by using the Search tools in Slack.
 | Shen, Jingyi                | Rob(TA)                    |
 | Siewert, Cole T             | Rob(TA)                    |
 | Snyder Dicesare, Lily J     | Rob(TA)                    |
-| Son, GyeongJun              | Professor Kostin           |
 | Tabechian, Jeremy D         | Rob(TA)                    |
 | Talawa, Drusilla A          | Rob(TA)                    |
 | Topal, Evrim                | Rob(TA)                    |
