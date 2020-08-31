@@ -8,7 +8,7 @@ This schedule is subject to modification throughout the semester. Always check w
 | ------- | ---------------------------------- | ------------------------------------------------------------ |
 |         | Wednesday, August 26, 2020         | [Lab 0: Course Tools](lab00-course-tools/instructions.md)    |
 | 1       | Thursday, August 27, 2020          | [Lecture 1a: Introduction to CSC 170 (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e58e1be2-c486-4fa3-923c-ac210147946a) and [(PDF)](01-intro/intro-csc170.pdf) <br>[Lecture 1b: Introduction to the Industry (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b7440498-5192-4d2e-85d1-ac210178a5c6) and [(PDF)](01-intro/intro-industry.pdf) |
-|         | Monday, August 31, 2020            | Lab 1: Account Setup                                         |
+|         | Monday, August 31, 2020            | [Lab 1: Account Setup](lab01-account-setup/instructions.md)  |
 | 2       | Tuesday, September 1, 2020         | Introduction to the Industry (live discussion)               |
 |         | Wednesday, September 2, 2020       | OPEN LAB                                                     |
 | 3       | Thursday, September 3, 2020        | The Internet                                                 |
