@@ -101,21 +101,11 @@ For each assignment and project, the **due date** is shown near the top of the l
 
 Within **24 hours** of turning-in an assignment in Blackboard, the TAs will provide a grade ONE TIME only, and only if the assignment was submitted in Blackboard **on or before its due date**.  
 
-Assignments turned-in after the due date will get a zero, with some exceptions...
+Assignments turned-in after the due date will get a zero.
 
 ### Late assignments
 
 Late assignments will not be graded unless *a prior arrangement* has been made with the student's assigned TA to get an **extension by one or two days**.  Extensions will only be granted two or three times, maximum, per semester, at the discretion of the TA. 
-
-### Second chances
-
-Re-grading assignments is at the TA's discretion.  There is no obligation to do so.  However, **within one-day** of receiving a grade less than 100%, the student may fix the mistake(s), re-upload their assignment to the web server, and ask the TA for a second chance.  The TA *may* grant a second chance (by going into Blackboard and enabling it) so long as the mistakes made to the first submission appeared to be minor and the student has done their level best to correct them.
-
-***Situations when students should <u>not</u> expect a second chance...***
-
-- If an assignment appears to have been submitted on-time for the sole purpose of getting a second chance it WILL NOT be re-graded.  I.e. the first submission must look like the student made an honest attempt to get the assignment right.  If it looks terrible (as determined by the TA), the grade will be left as-is and *not* re-graded.
-- Late in the semester when the professor, TAs, and everyone is under the *crunch*, second chances will STOP.  When the we hit this point, the professor will make an announcement in one of the lectures about this.
-- Recommended: late in the semester, students should check with their TA to see if they are able to re-grade their assignments.  (Don't assume it!  There is no obligation to do so.)
 
 ## Texts and Materials
 This course does not use a textbook. All information required to pass the course comes from the lectures and labs so attendance, virtual or in-person, is mandatory.  
