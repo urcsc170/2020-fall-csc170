@@ -1,15 +1,14 @@
 # Schedule
 This schedule is subject to modification throughout the semester. Always check with Professor Kostin if you have any questions.
 
-- Lectures are released online via Panopto on Tuesdays and Thursdays at 11:05 AM EDT and must be watched in their entirety within 24 hours
-- Lab sessions occur in real-time via Zoom on Mondays and Wednesdays at 11:05 AM EDT (CSC 170-2) and 12:30 PM EDT (CSC 170-3); if you cannot attend in real-time you must watch the recordings of the lab sessions in their entirety via Panopto within 24 hours
+To schedule a **private discussion with the professor**, use [*Calendly*, an online scheduling app](https://calendly.com/rkostin) to setup virtual office hours via **Zoom**
 
 | Lecture | Date                               | Activity                                                     |
 | ------- | ---------------------------------- | ------------------------------------------------------------ |
 |         | Wednesday, August 26, 2020         | [Lab 0: Course Tools](lab00-course-tools/instructions.md)    |
 | 1       | Thursday, August 27, 2020          | [Lecture 1a: Introduction to CSC 170 (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e58e1be2-c486-4fa3-923c-ac210147946a) and [(PDF)](01-intro/intro-csc170.pdf) <br>[Lecture 1b: Introduction to the Industry (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b7440498-5192-4d2e-85d1-ac210178a5c6) and [(PDF)](01-intro/intro-industry.pdf) |
 |         | Monday, August 31, 2020            | [Lab 1: Account Setup](lab01-account-setup/instructions.md)  |
-| 2       | Tuesday, September 1, 2020         | [Introduction  to the Industry (live discussion, Zoom)](https://rochester.zoom.us/j/97048635406) |
+| 2       | Tuesday, September 1, 2020         | [Lecture 2: Introduction to the Industry (live discussion, Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1439232b-d12b-4629-8175-ac29017a80b7) |
 |         | Wednesday, September 2, 2020       | OPEN LAB                                                     |
 | 3       | Thursday, September 3, 2020        | The Internet                                                 |
 |         | Monday, September 7, 2020          | Lab 2: First HTML Webpage                                    |

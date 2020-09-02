@@ -5,18 +5,9 @@ Introduction to Web Development
 
 ## Tuesday, September 1, 2020
 
-- [Introduction  to the Industry (live discussion, Zoom)](https://rochester.zoom.us/j/97048635406)
-  - Password sent via email
-  - This Zoom session will be recorded and posted in Panopto later
+- [Lecture 2: Introduction to the Industry (live discussion, Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1439232b-d12b-4629-8175-ac29017a80b7)
 
 ## Monday, August 31, 2020
 
 - [Lab 1: Account Setup](lab01-account-setup/instructions.md)
 
-
-
-
-<hr>
-
-
-To schedule a **private discussion with the professor**, use [*Calendly*, an online scheduling app](https://calendly.com/rkostin) to setup virtual office hours via **Zoom**
