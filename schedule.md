@@ -10,7 +10,7 @@ To schedule a **private discussion with the professor**, use [*Calendly*, an onl
 |         | Monday, August 31, 2020            | [Lab 1: Account Setup](lab01-account-setup/instructions.md)  |
 | 2       | Tuesday, September 1, 2020         | [Lecture 2: Introduction to the Industry (live discussion, Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1439232b-d12b-4629-8175-ac29017a80b7) |
 |         | Wednesday, September 2, 2020       | OPEN LAB                                                     |
-| 3       | Thursday, September 3, 2020        | The Internet                                                 |
+| 3       | Thursday, September 3, 2020        | [Lecture 3: The Internet (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=846fc184-5773-4359-be9f-ac2a013a3a92) and [(PDF)](02-the-internet/the-internet.pdf) |
 |         | Monday, September 7, 2020          | Lab 2: First HTML Webpage                                    |
 | 4       | Tuesday, September 8, 2020         | The Web and HTML                                             |
 |         | Wednesday, September 9, 2020       | Lab 3: Content Prep                                          |
