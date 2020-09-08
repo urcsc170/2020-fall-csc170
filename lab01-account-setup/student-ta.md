@@ -11,19 +11,15 @@ You can contact your TA by using the Search tools in Slack.
 | ---------------------------- | -------------------------- |
 | Abdellatif,  Aayman A        | Kunda Paterne (TA)         |
 | Aceves  Rodriguez, Constanza | (TA) Emma Mantel           |
-| Aceves  Rodriguez, Constanza | (TA) Emma Mantel           |
 | Adeniji,  Isabel O           | Youssef Ouenniche (TA)     |
 | Al  Ansar, Abdoulaye         | Youssef Ouenniche (TA)     |
 | Ayano,  Amanuel              | Bella (Christabel) TA      |
 | Bah,  Mohammed W             | Kunda Paterne (TA)         |
 | Baldonado,  Destinie N       | Bella (Christabel) TA      |
 | Brown,  Tasheem              | Youssef Ouenniche (TA)     |
-| Brown,  Tasheem              | Youssef Ouenniche (TA)     |
-| Carroll,  John R             | Bella (Christabel) TA      |
 | Carroll,  John R             | Bella (Christabel) TA      |
 | Cervantes  Escamilla, Jose M | Kunda Paterne (TA)         |
 | Chen,  Yuhan                 | Youssef Ouenniche (TA)     |
-| Cheung,  Ngo Yeung           | Rob(TA)                    |
 | Cheung,  Ngo Yeung           | Rob(TA)                    |
 | Chon,  You Shin              | (TA) Emma Mantel           |
 | Di  Leo, Grace M             | Youssef Ouenniche (TA)     |
@@ -63,9 +59,7 @@ You can contact your TA by using the Search tools in Slack.
 | Liang,  John K               | Dom(TA)                    |
 | Liang,  Tian                 | Dom(TA)                    |
 | Lin,  Kayla S                | Dom(TA)                    |
-| Lin,  Kayla S                | Dom(TA)                    |
 | Liu,  Zhaojing               | Dom(TA)                    |
-| Lyu,  Zhaozhou               | Dom(TA)                    |
 | Majewski,  Connor M          | Dom(TA)                    |
 | Mak,  King Him Jerry         | Bella (Christabel) TA      |
 | Malloy,  Daniel T            | (TA) Emma Mantel           |
@@ -77,12 +71,10 @@ You can contact your TA by using the Search tools in Slack.
 | Nelson,  Lia X               | Dom(TA)                    |
 | O'Neill,  Thomas             | Bella (Christabel) TA      |
 | Ofori,  Kweku                | Kunda Paterne (TA)         |
-| Ofori,  Kweku                | Kunda Paterne (TA)         |
 | Pahadi,  Devashish           | Bella (Christabel) TA      |
 | Pham,  Thanh T               | Rob(TA)                    |
 | Phan,  Dylan Q               | Bella (Christabel) TA      |
 | Pumulo,  Sinabu              | Rob(TA)                    |
-| Richter,  Samuel             | Rob(TA)                    |
 | Richter,  Samuel             | Rob(TA)                    |
 | Shen,  Jingyi                | Rob(TA)                    |
 | Siewert,  Cole T             | Rob(TA)                    |
@@ -92,15 +84,11 @@ You can contact your TA by using the Search tools in Slack.
 | Talawa,  Drusilla A          | Rob(TA)                    |
 | Topal,  Evrim                | Rob(TA)                    |
 | Torres,  Leslie Y            | Dom(TA)                    |
-| Torres,  Leslie Y            | Dom(TA)                    |
 | Turmanidze,  Mariam          | Rob(TA)                    |
-| Wang,  Xueting               | Kunda Paterne (TA)         |
 | Wang,  Xueting               | Kunda Paterne (TA)         |
 | Wong,  Katie (Kyler)         | Professor Kostin           |
 | Wu,  Xiaoqi                  | (TA) Emma Mantel           |
-| Wu,  Xiaoqi                  | (TA) Emma Mantel           |
 | Xiao,  Yao                   | Dom(TA)                    |
 | Yang,  Can                   | Bella (Christabel) TA      |
-| Zheng,  Shuyue               | Rob(TA)                    |
 | Zheng,  Shuyue               | Rob(TA)                    |
 | Zolotukhin,  Mark            | Rob(TA)                    |
