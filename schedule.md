@@ -10,10 +10,10 @@ To schedule a **private discussion with the professor**, use [*Calendly*, an onl
 |         | Monday, August 31, 2020            | [Lab 1: Account Setup](lab01-account-setup/instructions.md)  |
 | 2       | Tuesday, September 1, 2020         | [Lecture 2: Introduction to the Industry (live discussion, Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1439232b-d12b-4629-8175-ac29017a80b7) |
 |         | Wednesday, September 2, 2020       | OPEN LAB                                                     |
-| 3       | Thursday, September 3, 2020        | [Lecture 3: The Internet (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=846fc184-5773-4359-be9f-ac2a013a3a92) and [(PDF)](02-the-internet/the-internet.pdf) |
-|         | Monday, September 7, 2020          | Lab 2: First HTML Webpage                                    |
-| 4       | Tuesday, September 8, 2020         | The Web and HTML                                             |
-|         | Wednesday, September 9, 2020       | Lab 3: Content Prep                                          |
+| 3       | Thursday, September 3, 2020        | [Lecture 3: The Internet (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=846fc184-5773-4359-be9f-ac2a013a3a92) and [(PDF)](03-the-internet/the-internet.pdf) |
+|         | Monday, September 7, 2020          | HOLIDAY                                                      |
+| 4       | Tuesday, September 8, 2020         | [Lecture 4a: The Web (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=581f81a1-98f1-4930-9d1b-ac2e0127f260) and [(PDF)](04-the-web-and-html/the-web.pdf)<br>[Lecture 4b: Hypertext Markup Language (HTML) (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=356d3380-f28d-47cb-aa19-ac2e013618fd) and [(PDF)](04-the-web-and-html/html.pdf) |
+|         | Wednesday, September 9, 2020       | Lab 2: First HTML Webpage<br>Lab 3: Content Prep             |
 | 5       | Thursday, September 10, 2020       | Web Document Structure                                       |
 |         | Monday, September 14, 2020         | Lab 4: Structured HTML Document                              |
 | 6       | Tuesday, September 15, 2020        | Project 1 Instructions                                       |
