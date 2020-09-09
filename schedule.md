@@ -13,7 +13,7 @@ To schedule a **private discussion with the professor**, use [*Calendly*, an onl
 | 3       | Thursday, September 3, 2020        | [Lecture 3: The Internet (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=846fc184-5773-4359-be9f-ac2a013a3a92) and [(PDF)](03-the-internet/the-internet.pdf) |
 |         | Monday, September 7, 2020          | HOLIDAY                                                      |
 | 4       | Tuesday, September 8, 2020         | [Lecture 4a: The Web (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=581f81a1-98f1-4930-9d1b-ac2e0127f260) and [(PDF)](04-the-web-and-html/the-web.pdf)<br>[Lecture 4b: Hypertext Markup Language (HTML) (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=356d3380-f28d-47cb-aa19-ac2e013618fd) and [(PDF)](04-the-web-and-html/html.pdf) |
-|         | Wednesday, September 9, 2020       | Lab 2: First HTML Webpage<br>Lab 3: Content Prep             |
+|         | Wednesday, September 9, 2020       | [Lab 2: First HTML Webpage](lab02-first-html-webpage/instructions.md)<br>[Lab 3: Content Prep](lab03-content-prep/instructions.md) |
 | 5       | Thursday, September 10, 2020       | Web Document Structure                                       |
 |         | Monday, September 14, 2020         | Lab 4: Structured HTML Document                              |
 | 6       | Tuesday, September 15, 2020        | Project 1 Instructions                                       |
