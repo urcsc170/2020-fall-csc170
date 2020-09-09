@@ -1,4 +1,4 @@
-# Lab 3: Content Preparation
+# Lab 3: Content Preparation 
 
 *Due: Monday, September 14, 2020*
 
