@@ -16,7 +16,7 @@ To schedule a **private discussion with the professor**, use [*Calendly*, an onl
 |         | Wednesday, September 9, 2020       | [Lab 2: First HTML Webpage](lab02-first-html-webpage/instructions.md)<br>[Lab 3: Content Prep](lab03-content-prep/instructions.md) |
 | 5       | Thursday, September 10, 2020       | [Lecture 5: Web Document Structure (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=22f4c342-27e4-48ca-9629-ac31017c7307) and [(PDF)](05-web-document-structure/web-document-structure.pdf) |
 |         | Monday, September 14, 2020         | [Lab 4: Structured HTML Document](lab04-structured-html-document/instructions.md) |
-| 6       | Tuesday, September 15, 2020        | Project 1 Instructions                                       |
+| 6       | Tuesday, September 15, 2020        | [Project 1 Introduction (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=aa076f77-08a4-40e8-9aa8-ac360154c70b)<br>[Project 1: Classic HTML Document](project01-classic-html-document/instructions.md) |
 |         | Wednesday, September 16, 2020      | OPEN LAB                                                     |
 | 7       | Thursday, September 17, 2020       | Webpage Presentation, part 1                                 |
 |         | Monday, September 21, 2020         | Lab 5: CSS for Formatting, part 1                            |

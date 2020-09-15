@@ -34,8 +34,9 @@ In this assignment, you will create an HTML document (a single page website) and
 
   - Typical structural HTML elements include: HEADER, MAIN, SECTION, ARTICLE, ASIDE, FOOTER ...and more.  
 - Here are a few resources to help you understand how this works:
-  - [The MDN web docs ...a popular resource about the Web (website)](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
-  - [Good ol' W3schools.com's webpage on Semantic Elements (website)](https://www.w3schools.com/html/html5_semantic_elements.asp)
+  - [Document and website structure (MDN Web Docs website)](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
+  - [HTML Semantic Elements (W3schools.com website)](https://www.w3schools.com/html/html5_semantic_elements.asp)
+  - [How to Section Your HTML (CSS Tricks website)](https://css-tricks.com/how-to-section-your-html/)
   - IMPORTANT: it's okay to use the HEADER, ARTICLE, ASIDE, and FOOTER, but do NOT use them in the same way we used them in the lab assignments!  ...not *just* them in that order.  (But it is okay to use them in *different* ways.)
   - Remember: the *content* determines what tags you should use, not the other way around.
   - Note: you *can* use each structural HTML tag multiple times in any HTML document and nest them inside each other as appropriate for your content.  (Except the `main` tag - it has special rules; [see what W3schools has to say about it (website)](https://www.w3schools.com/tags/tag_main.asp).
