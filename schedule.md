@@ -18,13 +18,13 @@ To schedule a **private discussion with the professor**, use [*Calendly*, an onl
 |         | Monday, September 14, 2020         | [Lab 4: Structured HTML Document](lab04-structured-html-document/instructions.md) |
 | 6       | Tuesday, September 15, 2020        | [Project 1 Introduction (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=aa076f77-08a4-40e8-9aa8-ac360154c70b)<br>[Project 1: Classic HTML Document](project01-classic-html-document/instructions.md) |
 |         | Wednesday, September 16, 2020      | OPEN LAB                                                     |
-| 7       | Thursday, September 17, 2020       | Webpage Presentation, part 1                                 |
+| 7       | Thursday, September 17, 2020       | Webpage Presentation - CSS for Formatting                    |
 |         | Monday, September 21, 2020         | Lab 5: CSS for Formatting, part 1                            |
-| 8       | Tuesday, September 22, 2020        | Webpage Presentation, part 2                                 |
+| 8       | Tuesday, September 22, 2020        | Webpage Presentation - CSS for Layout                        |
 |         | Wednesday, September 23, 2020      | Lab 6: CSS for Formatting, part 2                            |
-| 9       | Thursday, September 24, 2020       | Webpage Layout, part 1                                       |
+| 9       | Thursday, September 24, 2020       | Webpage Presentation - CSS for Layout, part 1                |
 |         | Monday, September 28, 2020         | OPEN LAB                                                     |
-| 10      | Tuesday, September 29, 2020        | Webpage Layout, part 2                                       |
+| 10      | Tuesday, September 29, 2020        | Webpage Presentation - CSS for Layout, part 2                |
 |         | Wednesday, September 30, 2020      | Lab 7: CSS for Layout                                        |
 | 11      | Thursday, October 1, 2020          | Project 2 Instructions                                       |
 |         | Monday, October 5, 2020            | OPEN LAB                                                     |
