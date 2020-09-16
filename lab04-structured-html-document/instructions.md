@@ -19,6 +19,7 @@ This assignment builds on your ability to take "real" content (from lab 3) and m
 
 Using your content from Lab 3, extract the text and images and fill the structure as follows:
 
+-  In the **TITLE** tag in the HEAD, set the title to: "Lab 4 - *your content subject here*"<br>Where *your content subject here* comes from your Wikipedia title, .e.g. Shakespeare
 -  In the **HEADER**, use one **H1** for the name of the topic you selected from Lab 3
 -  Also in the **HEADER**, create a subtitle (there is no `<subtitle>` tag, so use a **DIV**)
 -  Your first three second-level headings (**H2**s) and their associated paragraphs go in the **ARTICLE**
