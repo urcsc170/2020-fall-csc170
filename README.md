@@ -3,13 +3,14 @@ Introduction to Web Development
 - [Syllabus](syllabus.md)
 - [Schedule](schedule.md)   &lArr; here be: slides, assignments, and related links
 
-# Thursday, September 17, 2020
+## Monday, September 21, 2020
 
-- [Lecture 7: Web Presentation - CSS for Formatting (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b5f26cf7-cc7b-4e12-b665-ac3800fe7120) and [(PDF)](07-web-presentation-css-for-formatting/css-for-formatting.pdf)
+- [Short supplemental intro video for Lab 5 (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e382f06c-e618-4f13-aef3-ac3d00d29bbe)
 
-Continue work on...
+- [Lab 5: CSS for Formatting, Part 1](lab05-css-for-formatting1/instructions.md) (due: *Wednesday, September 23*)
 
-- [Lab 4: Structured HTML Document](lab04-structured-html-document/instructions.md) (due: Monday, September 21, 2020 *...extra time*)
+*Continue work on...*
+
 - [Project 1: Classic HTML Document](project01-classic-html-document/instructions.md) (due: *Thursday, October 1*)
   - [Supplemental advice (8 minutes, from the 12:30 PM lab on Wed. Sep. 16, in Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=30f73266-f475-4c59-8bb3-ac380141b409)
 

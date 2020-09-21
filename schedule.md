@@ -19,7 +19,7 @@ To schedule a **private discussion with the professor**, use [*Calendly*, an onl
 | 6       | Tuesday, September 15, 2020        | [Project 1 Introduction (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=aa076f77-08a4-40e8-9aa8-ac360154c70b)<br>[Project 1: Classic HTML Document](project01-classic-html-document/instructions.md) and [Supplemental advice (8 minutes, from the 12:30 PM lab on Wed. Sep. 16, in Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=30f73266-f475-4c59-8bb3-ac380141b409) |
 |         | Wednesday, September 16, 2020      | OPEN LAB                                                     |
 | 7       | Thursday, September 17, 2020       | [Lecture 7: Web Presentation - CSS for Formatting (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b5f26cf7-cc7b-4e12-b665-ac3800fe7120) and [(PDF)](07-web-presentation-css-for-formatting/css-for-formatting.pdf) |
-|         | Monday, September 21, 2020         | Lab 5: CSS for Formatting, part 1                            |
+|         | Monday, September 21, 2020         | [Short supplemental intro video for Lab 5 (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e382f06c-e618-4f13-aef3-ac3d00d29bbe)<br>[Lab 5: CSS for Formatting, Part 1](lab05-css-for-formatting1/instructions.md) |
 | 8       | Tuesday, September 22, 2020        | Webpage Presentation - CSS for Layout                        |
 |         | Wednesday, September 23, 2020      | Lab 6: CSS for Formatting, part 2                            |
 | 9       | Thursday, September 24, 2020       | Webpage Presentation - CSS for Layout, part 1                |
