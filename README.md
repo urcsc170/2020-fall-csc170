@@ -5,7 +5,7 @@ Introduction to Web Development
 
 ## Tuesday, September 22, 2020
 
-- [Lecture 8: Web Presentation - CSS for Formatting, part 2 (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d6214c15-7cc3-4dfa-bc07-ac3d00d98461)
+- [Lecture 8: Web Presentation - CSS for Formatting, part 2 (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d6214c15-7cc3-4dfa-bc07-ac3d00d98461) and [(PDF)](08-web-presentation2/css-for-formatting2.pdf) and [Demo Files (ZIP)](08-web-presentation2/demo.zip)
 
 
 
