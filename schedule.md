@@ -22,7 +22,7 @@ To schedule a **private discussion with the professor**, use [*Calendly*, an onl
 |         | Monday, September 21, 2020         | [Short supplemental intro video for Lab 5 (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e382f06c-e618-4f13-aef3-ac3d00d29bbe)<br>[Lab 5: CSS for Formatting, Part 1](lab05-css-for-formatting1/instructions.md) |
 | 8       | Tuesday, September 22, 2020        | [Lecture 8: Web Presentation - CSS for Formatting, part 2 (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d6214c15-7cc3-4dfa-bc07-ac3d00d98461) and [(PDF)](08-web-presentation2/css-for-formatting2.pdf) and [Demo Files (ZIP)](08-web-presentation2/demo.zip) |
 |         | Wednesday, September 23, 2020      | [Lab 6: CSS for Formatting, Part 2](lab06-css-for-formatting2/instructions.md) |
-| 9       | Thursday, September 24, 2020       | Webpage Presentation - CSS for Layout, part 1                |
+| 9       | Thursday, September 24, 2020       | [Lecture 9 Video: Web Presentation for Layout, Part 1](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2e8456ba-7ac2-4268-8b00-ac3f00f481a1) and [(PDF)](09-web-presentation-css-for-layout1/css-for-layout1.pdf)<br>Related links: [The Evolution of Web Design (website)](https://fabianburghardt.de/webolution/) and [NYT Snow Fall Article (website)](http://www.nytimes.com/projects/2012/snow-fall/index.html) |
 |         | Monday, September 28, 2020         | OPEN LAB                                                     |
 | 10      | Tuesday, September 29, 2020        | Webpage Presentation - CSS for Layout, part 2                |
 |         | Wednesday, September 30, 2020      | Lab 7: CSS for Layout                                        |
