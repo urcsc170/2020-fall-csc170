@@ -3,10 +3,10 @@ Introduction to Web Development
 - [Syllabus](syllabus.md)
 - [Schedule](schedule.md)   &lArr; here be: slides, assignments, and related links
 
-## Tuesday, September 29, 2020
+## Wednesday, September 30, 2020
 
-- [Lecture 10 Video: Web Presentation for Layout, Part 2](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4769e549-8138-4438-b5d2-ac440150a47c) and [(PDF)](10-web-presentation-css-for-layout2/css-for-layout2.pdf)
-  - Related materials: [Flex and Grid Demos (ZIP)](10-web-presentation-css-for-layout2/flex-and-grid-demos.zip) and [Old Fashioned Layout Examples (ZIP)](10-web-presentation-css-for-layout2/old-fashioned-layout-examples.zip) 
+- [Lab 7: CSS for Layout](lab07-css-for-layout/instructions.md) (due: *Wednesday, October 7, 2020 ...extra time!*)
+  - [Supplemental Video for Lab 7 (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=36e06178-6ef4-4e0c-8165-ac4600e97e32)
 
 *Continue work on...*
 
