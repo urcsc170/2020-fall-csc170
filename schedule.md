@@ -28,7 +28,7 @@ To schedule a **private discussion with the professor**, use [*Calendly*, an onl
 |         | Wednesday, September 30, 2020      | [Lab 7: CSS for Layout](lab07-css-for-layout/instructions.md) and [Supplemental Video for Lab 7 (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=36e06178-6ef4-4e0c-8165-ac4600e97e32) |
 | 11      | Thursday, October 1, 2020          | [Project 2: Formatting and Layout](project02-formatting-and-layout/instructions.md) and [Supplemental Video for Project 2 (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c0f01af1-649c-41c6-8ed8-ac46013c89a9) |
 |         | Monday, October 5, 2020            | OPEN LAB                                                     |
-| 12      | Tuesday, October 6, 2020           | Website Navigation, part 1                                   |
+| 12      | Tuesday, October 6, 2020           | [Lecture 12: Website Navigation, part 1 (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0d053ba7-256c-4a03-92f2-ac4b011d1335) and [(PDF)](12-web-presentation-css-for-navigation1/css-for-navigation.pdf) |
 |         | Wednesday, October 7, 2020         | OPEN LAB                                                     |
 | 13      | Thursday, October 8, 2020          | Website Navigation, part 2                                   |
 |         | Monday, October 12, 2020           | Lab 8: CSS for Navigation                                    |
