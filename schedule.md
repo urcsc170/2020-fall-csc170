@@ -30,7 +30,7 @@ To schedule a **private discussion with the professor**, use [*Calendly*, an onl
 |         | Monday, October 5, 2020            | OPEN LAB                                                     |
 | 12      | Tuesday, October 6, 2020           | [Lecture 12: Website Navigation, part 1 (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0d053ba7-256c-4a03-92f2-ac4b011d1335) and [(PDF)](12-web-presentation-css-for-navigation1/css-for-navigation.pdf) and [Demo Files (ZIP)](12-web-presentation-css-for-navigation1/demo_basic-navigation.zip) |
 |         | Wednesday, October 7, 2020         | [Lab 8: CSS for Navigation](lab08-css-for-navigation/instructions.md) and [Supplemental Video for Lab 8 (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=736829f8-fac5-443d-a050-ac4d00cd79fd) |
-| 13      | Thursday, October 8, 2020          | Website Navigation, part 2                                   |
+| 13      | Thursday, October 8, 2020          | [Lecture 13: Website Navigation, part 2 (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=327b4d0f-9419-478a-91e5-ac4d00106112) and [(PDF)](13-web-presentation-css-for-navigation2/css-positioning.pdf) and [Demo Files (ZIP)](13-web-presentation-css-for-navigation2/demo_advanced-navigation.zip) |
 |         | Monday, October 12, 2020           | OPEN LAB                                                     |
 | 14      | Tuesday, October 13, 2020          | Images for the Web                                           |
 |         | Wednesday, October 14, 2020        | Lab 9: Images for the Web                                    |
