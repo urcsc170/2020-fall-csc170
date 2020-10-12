@@ -3,10 +3,7 @@ Introduction to Web Development
 - [Syllabus](syllabus.md)
 - [Schedule](schedule.md)   &lArr; here be: slides, assignments, and related links
 
-## Thursday, October 8, 2020
-
-- [Lecture 13: Website Navigation, part 2 (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=327b4d0f-9419-478a-91e5-ac4d00106112) and [(PDF)](13-web-presentation-css-for-navigation2/css-positioning.pdf) 
-  - [Demo Files (ZIP)](13-web-presentation-css-for-navigation2/demo_advanced-navigation.zip)
+## Monday, October 12, 2020
 
 *Continue work on...*
 
