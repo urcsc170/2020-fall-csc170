@@ -3,7 +3,10 @@ Introduction to Web Development
 - [Syllabus](syllabus.md)
 - [Schedule](schedule.md)   &lArr; here be: slides, assignments, and related links
 
-## Monday, October 12, 2020
+## Tuesday, October 13, 2020
+
+- [Lecture 14: Images for the Web (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=95958b74-05ae-4f1f-b3ee-ac51014da1ce) and [(PDF)](14-images-for-the-web/images-for-the-web.pdf) 
+  - Associated demo files: [Background Image Demo Files (ZIP)](14-images-for-the-web/background-image_demo.zip) and [SVG Demo Files (ZIP)](14-images-for-the-web/svg_examples.zip)
 
 *Continue work on...*
 
