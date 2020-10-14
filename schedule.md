@@ -33,35 +33,35 @@ To schedule a **private discussion with the professor**, use [*Calendly*, an onl
 | 13      | Thursday, October 8, 2020          | [Lecture 13: Website Navigation, part 2 (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=327b4d0f-9419-478a-91e5-ac4d00106112) and [(PDF)](13-web-presentation-css-for-navigation2/css-positioning.pdf) and [Demo Files (ZIP)](13-web-presentation-css-for-navigation2/demo_advanced-navigation.zip) |
 |         | Monday, October 12, 2020           | OPEN LAB                                                     |
 | 14      | Tuesday, October 13, 2020          | [Lecture 14: Images for the Web (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=95958b74-05ae-4f1f-b3ee-ac51014da1ce) and [(PDF)](14-images-for-the-web/images-for-the-web.pdf), and associated demo files: [Background Image Demo Files (ZIP)](14-images-for-the-web/background-image_demo.zip) and [SVG Demo Files (ZIP)](14-images-for-the-web/svg_examples.zip) |
-|         | Wednesday, October 14, 2020        | Lab 9: Images for the Web                                    |
-| 15      | Thursday, October 15, 2020         | Intro to localhost                                           |
-|         | Monday, October 19, 2020           | Lab 10: Localhost                                            |
-| 16      | Tuesday, October 20, 2020          | Website Construction, part 1                                 |
-|         | Wednesday, October 21, 2020        | Lab 11: PHP Includes                                         |
-| 17      | Thursday, October 22, 2020         | HTML Forms, part 1                                           |
-|         | Monday, October 26, 2020           | Lab 12: HTML Forms, part 1                                   |
-| 18      | Tuesday, October 27, 2020          | HTML Forms, part 2                                           |
-|         | Wednesday, October 28, 2020        | Lab 13: HTML Forms, part 2                                   |
-| 19      | Thursday, October 29, 2020         | Webpage Behavior, part 1                                     |
-|         | Monday, November 2, 2020           | OPEN LAB                                                     |
-| 20      | Tuesday, November 3, 2020          | Webpage Behavior, part 2                                     |
-|         | Wednesday, November 4, 2020        | Lab 14: JavaScript                                           |
-| 27      | Thursday, November 5, 2020         | JavaScript Libraries & Plugins                               |
-|         | Monday, November 9, 2020           | Lab 15: JavaScript Libraries and Plugins                     |
-| 22      | Tuesday, November 10, 2020         | Project 3 Instructions                                       |
-|         | Wednesday, November 11, 2020       | OPEN LAB                                                     |
-| 23      | Thursday, November 12, 2020        | Website Construction, part 2                                 |
-|         | Monday, November 16, 2020          | Lab 16: Menu Highlighter                                     |
-| 24      | Tuesday, November 17, 2020         | Mobile Design, part 1                                        |
-|         | Wednesday, November 18, 2020       | OPEN LAB                                                     |
-| 25      | Thursday, November 19, 2020        | Mobile Design, part 2                                        |
-|         | Monday, November 23, 2020          | Lab 17: Mobile Design                                        |
-| 26      | Tuesday, November 24, 2020         | Driving Traffic to Websites, part 1                          |
-|         | Wednesday, November 25, 2020 (1/2) | OPEN LAB                                                     |
+|         | Wednesday, October 14, 2020        | [Lab 9: Images for the Web](lab09-images-for-the-web/instructions.md) and [Supplemental Video for Lab 9 (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eec2631d-11d3-4341-9c19-ac5101601a71) |
+| 15      | Thursday, October 15, 2020         | CANCELLED                                                    |
+|         | Monday, October 19, 2020           | OPEN LAB                                                     |
+| 16      | Tuesday, October 20, 2020          | Intro to localhost                                           |
+|         | Wednesday, October 21, 2020        | Lab 10: Localhost                                            |
+| 17      | Thursday, October 22, 2020         | Website Construction, part 1                                 |
+|         | Monday, October 26, 2020           | Lab 11: PHP Includes                                         |
+| 18      | Tuesday, October 27, 2020          | HTML Forms, part 1                                           |
+|         | Wednesday, October 28, 2020        | Lab 12: HTML Forms, part 1                                   |
+| 19      | Thursday, October 29, 2020         | HTML Forms, part 2                                           |
+|         | Monday, November 2, 2020           | Lab 13: HTML Forms, part 2                                   |
+| 20      | Tuesday, November 3, 2020          | Webpage Behavior, part 1                                     |
+|         | Wednesday, November 4, 2020        | OPEN LAB                                                     |
+| 27      | Thursday, November 5, 2020         | Webpage Behavior, part 2                                     |
+|         | Monday, November 9, 2020           | Lab 14: JavaScript                                           |
+| 22      | Tuesday, November 10, 2020         | JavaScript Libraries & Plugins                               |
+|         | Wednesday, November 11, 2020       | Lab 15: JavaScript Libraries and Plugins                     |
+| 23      | Thursday, November 12, 2020        | Project 3 Instructions                                       |
+|         | Monday, November 16, 2020          | OPEN LAB                                                     |
+| 24      | Tuesday, November 17, 2020         | Website Construction, part 2                                 |
+|         | Wednesday, November 18, 2020       | Lab 16: Menu Highlighter                                     |
+| 25      | Thursday, November 19, 2020        | Mobile Design, part 1                                        |
+|         | Monday, November 23, 2020          | OPEN LAB                                                     |
+| 26      | Tuesday, November 24, 2020         | Mobile Design, part 2                                        |
+|         | Wednesday, November 25, 2020 (1/2) | Lab 17: Mobile Design                                        |
 |         | Monday, November 30, 2020          | OPEN LAB                                                     |
-| 27      | Tuesday, December 1, 2020          | Driving Traffic to Websites, part 2                          |
+| 27      | Tuesday, December 1, 2020          | Driving Traffic to Websites, part 1                          |
 |         | Wednesday, December 2, 2020        | Lab 18: Search Engine Optimization                           |
-| 28      | Thursday, December 3, 2020         | CANCELLED                                                    |
+| 28      | Thursday, December 3, 2020         | Driving Traffic to Websites, part 2                          |
 |         | Monday, December 7, 2020           | OPEN LAB                                                     |
 | 29      | Tuesday, December 8, 2020          | CANCELLED                                                    |
 
