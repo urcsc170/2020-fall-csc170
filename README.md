@@ -3,7 +3,11 @@ Introduction to Web Development
 - [Syllabus](syllabus.md)
 - [Schedule](schedule.md)   &lArr; here be: slides, assignments, and related links
 
-## Monday, October 19, 2020
+## Tuesday, October 20, 2020
+
+- [Lecture 16: Introduction to Localhost (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7a10d615-5f3a-4067-9df7-ac5900d74c4c) and [(PDF)](16-localhost/localhost.pdf)
+  - Note: nothing to install at this time
+  - There is a new lab assignment on Wednesday, during which you'll install the MAMP or WAMP software
 
 *Continue work on...*
 
