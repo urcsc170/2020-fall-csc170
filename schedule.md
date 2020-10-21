@@ -37,7 +37,7 @@ To schedule a **private discussion with the professor**, use [*Calendly*, an onl
 | 15      | Thursday, October 15, 2020         | CANCELLED                                                    |
 |         | Monday, October 19, 2020           | OPEN LAB                                                     |
 | 16      | Tuesday, October 20, 2020          | [Lecture 16: Introduction to Localhost (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7a10d615-5f3a-4067-9df7-ac5900d74c4c) and [(PDF)](16-localhost/localhost.pdf) |
-|         | Wednesday, October 21, 2020        | Lab 10: Localhost                                            |
+|         | Wednesday, October 21, 2020        | [Lab 10: Localhost](lab10-localhost/instructions.md)         |
 | 17      | Thursday, October 22, 2020         | Website Construction, part 1                                 |
 |         | Monday, October 26, 2020           | Lab 11: PHP Includes                                         |
 | 18      | Tuesday, October 27, 2020          | HTML Forms, part 1                                           |
