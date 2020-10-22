@@ -38,7 +38,7 @@ To schedule a **private discussion with the professor**, use [*Calendly*, an onl
 |         | Monday, October 19, 2020           | OPEN LAB                                                     |
 | 16      | Tuesday, October 20, 2020          | [Lecture 16: Introduction to Localhost (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7a10d615-5f3a-4067-9df7-ac5900d74c4c) and [(PDF)](16-localhost/localhost.pdf) |
 |         | Wednesday, October 21, 2020        | [Lab 10: Localhost](lab10-localhost/instructions.md) and [Important workshop in the Wednesday lab session (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1f494fee-bf44-4b42-9b7e-ac5b0137b79e) |
-| 17      | Thursday, October 22, 2020         | Website Construction, part 1                                 |
+| 17      | Thursday, October 22, 2020         | [Lecture 17: Website Construction, part 1 (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c8ba0fb2-8a5f-44bd-b77a-ac5c00ef06e6) and [(PDF)](17-website-construction1/website-construction1.pdf) |
 |         | Monday, October 26, 2020           | Lab 11: PHP Includes                                         |
 | 18      | Tuesday, October 27, 2020          | HTML Forms, part 1                                           |
 |         | Wednesday, October 28, 2020        | Lab 12: HTML Forms, part 1                                   |
