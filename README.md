@@ -5,7 +5,7 @@ Introduction to Web Development
 
 ## Wednesday, October 28, 2020
 
-- [Lab 12: HTML Forms, Part 1](lab12-html-forms1/instructions.md) (due: Tuesday, November 2)
+- [Lab 12: HTML Forms, Part 1](lab12-html-forms1/instructions.md) (due: Monday, November 2)
   - Watch: [Supplemental Instructions for Lab 12 (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7a98d86b-85bd-4e01-8829-ac62001be21d)
 
 *Continue work on...*
