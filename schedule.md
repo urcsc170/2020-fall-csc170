@@ -43,15 +43,15 @@ To schedule a **private discussion with the professor**, use [*Calendly*, an onl
 | 18      | Tuesday, October 27, 2020          | [Lecture 18: HTML Forms, part 1 (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e3c41bdb-66c6-48ed-9128-ac600140b1fb) and [(PDF)](18-html-forms1/html-forms1.pdf) |
 |         | Wednesday, October 28, 2020        | [Lab 12: HTML Forms, Part 1](lab12-html-forms1/instructions.md) and [Supplemental Instructions for Lab 12 (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7a98d86b-85bd-4e01-8829-ac62001be21d) |
 | 19      | Thursday, October 29, 2020         | [Lecture 19: HTML Forms, part 2 (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=29a7d1af-a5d9-4979-99df-ac6200f7b440) and [(PDF)](19-html-forms2/html-forms2.pdf) |
-|         | Monday, November 2, 2020           | Lab 13: HTML Forms, part 2                                   |
-| 20      | Tuesday, November 3, 2020          | Webpage Behavior, part 1                                     |
-|         | Wednesday, November 4, 2020        | OPEN LAB                                                     |
-| 27      | Thursday, November 5, 2020         | Webpage Behavior, part 2                                     |
-|         | Monday, November 9, 2020           | Lab 14: JavaScript                                           |
-| 22      | Tuesday, November 10, 2020         | JavaScript Libraries & Plugins                               |
-|         | Wednesday, November 11, 2020       | Lab 15: JavaScript Libraries and Plugins                     |
-| 23      | Thursday, November 12, 2020        | Project 3 Instructions                                       |
-|         | Monday, November 16, 2020          | OPEN LAB                                                     |
+|         | Monday, November 2, 2020           | [Lab 13: HTML Forms, Part 2](lab13-html-forms2/instructions.md) and [Supplemental Instructions for Lab 13 (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=09a8127a-f167-4949-a3f8-ac65016cdd12) |
+| 20      | Tuesday, November 3, 2020          | Study Break (cancelled)                                      |
+|         | Wednesday, November 4, 2020        | Project 3 Instructions                                       |
+| 27      | Thursday, November 5, 2020         | Webpage Behavior, part 1                                     |
+|         | Monday, November 9, 2020           | OPEN LAB                                                     |
+| 22      | Tuesday, November 10, 2020         | Webpage Behavior, part 2                                     |
+|         | Wednesday, November 11, 2020       | Lab 14: JavaScript                                           |
+| 23      | Thursday, November 12, 2020        | JavaScript Libraries & Plugins                               |
+|         | Monday, November 16, 2020          | Lab 15: JavaScript Libraries and Plugins                     |
 | 24      | Tuesday, November 17, 2020         | Website Construction, part 2                                 |
 |         | Wednesday, November 18, 2020       | Lab 16: Menu Highlighter                                     |
 | 25      | Thursday, November 19, 2020        | Mobile Design, part 1                                        |
