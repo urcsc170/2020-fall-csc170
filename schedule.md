@@ -49,14 +49,14 @@ To schedule a **private discussion with the professor**, use [*Calendly*, an onl
 | 27      | Thursday, November 5, 2020         | [Lecture 21: Webpage Behavior, part 1 (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d450c923-35f4-4ab5-bcae-ac68017f2f67) and [(PDF)](21-webpage-behavior1/webpage-behavior1.pdf) |
 |         | Monday, November 9, 2020           | OPEN LAB                                                     |
 | 22      | Tuesday, November 10, 2020         | [Lecture 22: Webpage Behavior, part 2 (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=71dd8c4c-62cf-4a57-80b4-ac6e00214378) and [(PDF)](22-webpage-behavior2/dom.pdf) |
-|         | Wednesday, November 11, 2020       | Lab 14: JavaScript                                           |
-| 23      | Thursday, November 12, 2020        | JavaScript Libraries & Plugins                               |
-|         | Monday, November 16, 2020          | Lab 15: JavaScript Libraries and Plugins                     |
-| 24      | Tuesday, November 17, 2020         | Website Construction, part 2                                 |
-|         | Wednesday, November 18, 2020       | Lab 16: Menu Highlighter                                     |
-| 25      | Thursday, November 19, 2020        | Mobile Design, part 1                                        |
-|         | Monday, November 23, 2020          | OPEN LAB                                                     |
-| 26      | Tuesday, November 24, 2020         | Mobile Design, part 2                                        |
+|         | Wednesday, November 11, 2020       | [Lab 14: JavaScript](lab14-javascript-basics/instructions.md) |
+| 23      | Thursday, November 12, 2020        | JavaScript Libraries                                         |
+|         | Monday, November 16, 2020          | OPEN LAB                                                     |
+| 24      | Tuesday, November 17, 2020         | JavaScript Plugins                                           |
+|         | Wednesday, November 18, 2020       | Lab 15: JavaScript Libraries and Plugins                     |
+| 25      | Thursday, November 19, 2020        | Website Construction, part 2                                 |
+|         | Monday, November 23, 2020          | Lab 16: Menu Highlighter                                     |
+| 26      | Tuesday, November 24, 2020         | Mobile Design                                                |
 |         | Wednesday, November 25, 2020 (1/2) | Lab 17: Mobile Design                                        |
 |         | Monday, November 30, 2020          | OPEN LAB                                                     |
 | 27      | Tuesday, December 1, 2020          | Driving Traffic to Websites, part 1                          |
