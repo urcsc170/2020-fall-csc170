@@ -50,7 +50,7 @@ To schedule a **private discussion with the professor**, use [*Calendly*, an onl
 |         | Monday, November 9, 2020           | OPEN LAB                                                     |
 | 22      | Tuesday, November 10, 2020         | [Lecture 22: Webpage Behavior, part 2 (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=71dd8c4c-62cf-4a57-80b4-ac6e00214378) and [(PDF)](22-webpage-behavior2/dom.pdf) |
 |         | Wednesday, November 11, 2020       | [Lab 14: JavaScript](lab14-javascript-basics/instructions.md) |
-| 23      | Thursday, November 12, 2020        | JavaScript Libraries                                         |
+| 23      | Thursday, November 12, 2020        | [Lecture 23: JavaScript Libraries (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=178a0db6-c8b5-457f-8dda-ac7001027020) and [(PDF)](23-javascript-libraries/javascript-libraries.pdf) |
 |         | Monday, November 16, 2020          | OPEN LAB                                                     |
 | 24      | Tuesday, November 17, 2020         | JavaScript Plugins                                           |
 |         | Wednesday, November 18, 2020       | Lab 15: JavaScript Libraries and Plugins                     |
