@@ -3,9 +3,9 @@ Introduction to Web Development
 - [Syllabus](syllabus.md)
 - [Schedule](schedule.md)   &lArr; here be: slides, assignments, and related links
 
-## Thursday, November 12, 2020
+## Monday, November 16, 2020
 
-- [Lecture 23: JavaScript Libraries (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=178a0db6-c8b5-457f-8dda-ac7001027020) and [(PDF)](23-javascript-libraries/javascript-libraries.pdf)
+- OPEN Lab
 
 *Continue work on...*
 
