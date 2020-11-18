@@ -53,7 +53,7 @@ To schedule a **private discussion with the professor**, use [*Calendly*, an onl
 | 23      | Thursday, November 12, 2020        | [Lecture 23: JavaScript Libraries (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=178a0db6-c8b5-457f-8dda-ac7001027020) and [(PDF)](23-javascript-libraries/javascript-libraries.pdf) |
 |         | Monday, November 16, 2020          | OPEN LAB                                                     |
 | 24      | Tuesday, November 17, 2020         | [Lecture 24: JavaScript Plugins (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=27ece33d-cb30-4018-8165-ac700156717e) and [(PDF)](24-javascript-plugins/javascript-plugins.pdf) |
-|         | Wednesday, November 18, 2020       | Lab 15: JavaScript Libraries and Plugins                     |
+|         | Wednesday, November 18, 2020       | [Lab 15: JavaScript Plugins](lab15-javascript-plugins/instructions.md) |
 | 25      | Thursday, November 19, 2020        | Website Construction, part 2                                 |
 |         | Monday, November 23, 2020          | Lab 16: Menu Highlighter                                     |
 | 26      | Tuesday, November 24, 2020         | Mobile Design                                                |
