@@ -55,13 +55,13 @@ To schedule a **private discussion with the professor**, use [*Calendly*, an onl
 | 24      | Tuesday, November 17, 2020         | [Lecture 24: JavaScript Plugins (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=27ece33d-cb30-4018-8165-ac700156717e) and [(PDF)](24-javascript-plugins/javascript-plugins.pdf) |
 |         | Wednesday, November 18, 2020       | [Lab 15: JavaScript Plugins](lab15-javascript-plugins/instructions.md) |
 | 25      | Thursday, November 19, 2020        | [Lecture 25: Website Construction, part 2 (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5259149a-05d3-4bc9-94f0-ac74014f46e4) and related files: [Menu Highlighter Plugin (ZIP)](25-website-construction2/menu-highlighter_demo.zip) |
-|         | Monday, November 23, 2020          | Lab 16: Menu Highlighter                                     |
-| 26      | Tuesday, November 24, 2020         | Mobile Design                                                |
-|         | Wednesday, November 25, 2020 (1/2) | Lab 17: Mobile Design                                        |
+|         | Monday, November 23, 2020          | [Lab 16: Menu Highlighter](lab16-menu-highlighter/instructions.md) (available early: Friday, November 20) |
+| 26      | Tuesday, November 24, 2020         | CANCELLED                                                    |
+|         | Wednesday, November 25, 2020 (1/2) | HOLIDAY                                                      |
 |         | Monday, November 30, 2020          | OPEN LAB                                                     |
-| 27      | Tuesday, December 1, 2020          | Driving Traffic to Websites, part 1                          |
-|         | Wednesday, December 2, 2020        | Lab 18: Search Engine Optimization                           |
-| 28      | Thursday, December 3, 2020         | Driving Traffic to Websites, part 2                          |
-|         | Monday, December 7, 2020           | OPEN LAB                                                     |
-| 29      | Tuesday, December 8, 2020          | CANCELLED                                                    |
+| 27      | Tuesday, December 1, 2020          | Mobile Design                                                |
+|         | Wednesday, December 2, 2020        | Lab 17: Mobile Design                                        |
+| 28      | Thursday, December 3, 2020         | Driving Traffic to Websites, part 1                          |
+|         | Monday, December 7, 2020           | Lab 18: Search Engine Optimization                           |
+| 29      | Tuesday, December 8, 2020          | Driving Traffic to Websites, part 2                          |
 
