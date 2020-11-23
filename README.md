@@ -5,12 +5,8 @@ Introduction to Web Development
 
 ## Monday, November 23, 2020
 
-- [Lab 16: Menu Highlighter](lab16-menu-highlighter/instructions.md) (available early: Friday, November 20; due Wednesday, December 2 ...after the break)
-  - Note: **Lecture 25 about Website Construction, part 2** really explains what needs to be done and why
-
-## Thursday, November 19, 2020
-
-- [Lecture 25: Website Construction, part 2 (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5259149a-05d3-4bc9-94f0-ac74014f46e4)
+- [Lab 16: Menu Highlighter](lab16-menu-highlighter/instructions.md) (due Wednesday, December 2 ...after the break)
+  - Note: [Lecture 25: Website Construction, part 2 (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5259149a-05d3-4bc9-94f0-ac74014f46e4) really explains what needs to be done and why
   - Related files: [Menu Highlighter Plugin (ZIP)](25-website-construction2/menu-highlighter_demo.zip)
 
 *Continue work on...*
