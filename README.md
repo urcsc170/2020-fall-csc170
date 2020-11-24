@@ -3,6 +3,11 @@ Introduction to Web Development
 - [Syllabus](syllabus.md)
 - [Schedule](schedule.md)   &lArr; here be: slides, assignments, and related links
 
+## Tuesday, November 24, 2020
+
+- Cancelled
+  - The next lecture, *Mobile Design* will be on Tuesday, December 1
+
 ## Monday, November 23, 2020
 
 - [Lab 16: Menu Highlighter](lab16-menu-highlighter/instructions.md) (due Wednesday, December 2 ...after the break)
