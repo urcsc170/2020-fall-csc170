@@ -3,20 +3,15 @@ Introduction to Web Development
 - [Syllabus](syllabus.md)
 - [Schedule](schedule.md)   &lArr; here be: slides, assignments, and related links
 
-## Tuesday, November 24, 2020
+## Monday, November 30, 2020
 
-- Cancelled
-  - The next lecture, *Mobile Design* will be on Tuesday, December 1
+- OPEN LAB 
 
-## Monday, November 23, 2020
+*Continue work on...*
 
 - [Lab 16: Menu Highlighter](lab16-menu-highlighter/instructions.md) (due Wednesday, December 2 ...after the break)
   - Note: [Lecture 25: Website Construction, part 2 (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5259149a-05d3-4bc9-94f0-ac74014f46e4) really explains what needs to be done and why
   - Related files: [Menu Highlighter Plugin (ZIP)](25-website-construction2/menu-highlighter_demo.zip)
-
-*Continue work on...*
-
-- [Lab 15: JavaScript Plugins](lab15-javascript-plugins/instructions.md) (Due: Monday, November 23, 2020)
 
 - [Project 3: Multipage Website](project03-multipage-website/instructions.md) (Due: Wednesday, December 9, 2020 ...last day of classes)
   - Watch: [Instructions for Project 3 (Pantopo)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c5a03407-f8e7-48aa-b1bd-ac6700df1386)
