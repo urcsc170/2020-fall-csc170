@@ -59,7 +59,7 @@ To schedule a **private discussion with the professor**, use [*Calendly*, an onl
 | 26      | Tuesday, November 24, 2020         | CANCELLED                                                    |
 |         | Wednesday, November 25, 2020 (1/2) | HOLIDAY                                                      |
 |         | Monday, November 30, 2020          | OPEN LAB                                                     |
-| 27      | Tuesday, December 1, 2020          | Mobile Design                                                |
+| 27      | Tuesday, December 1, 2020          | [Lecture 27: Mobile Web Design (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f3c13a36-1945-42b3-8f8f-ac78014d85ea) and [(PDF)](27-mobile-design/mobile-design.pdf) |
 |         | Wednesday, December 2, 2020        | Lab 17: Mobile Design                                        |
 | 28      | Thursday, December 3, 2020         | Driving Traffic to Websites, part 1                          |
 |         | Monday, December 7, 2020           | Lab 18: Search Engine Optimization                           |
