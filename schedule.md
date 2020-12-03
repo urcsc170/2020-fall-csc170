@@ -61,7 +61,7 @@ To schedule a **private discussion with the professor**, use [*Calendly*, an onl
 |         | Monday, November 30, 2020          | OPEN LAB                                                     |
 | 27      | Tuesday, December 1, 2020          | [Lecture 27: Mobile Web Design (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f3c13a36-1945-42b3-8f8f-ac78014d85ea) and [(PDF)](27-mobile-design/mobile-design.pdf) |
 |         | Wednesday, December 2, 2020        | [Lab 17: Mobile Design](lab17-mobile-design/instructions.md) and [Supplemental instructions for Lab 17 (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=980f1f3b-6af8-4967-86f4-ac7a0112225a) and [demo files (ZIP)](lab17-mobile-design/mobile-design_demos.zip) |
-| 28      | Thursday, December 3, 2020         | Driving Traffic to Websites, part 1                          |
+| 28      | Thursday, December 3, 2020         | [Lecture 28: Driving Traffic to Websites, part 1 (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fbbcef18-aa76-4b1d-a162-ac7a0113ee04) and [(PDF)](28-driving-traffic1/driving-traffic1.pdf) |
 |         | Monday, December 7, 2020           | Lab 18: Search Engine Optimization                           |
 | 29      | Tuesday, December 8, 2020          | Driving Traffic to Websites, part 2                          |
 
